@@ -28,7 +28,7 @@
 ![](/IMAGENES/AprovSQL.png)
 
 ##### El VagrantFile: <a name="id6"></a>
-![](/IMAGENES/vagrantfile.jpg)
+![](/IMAGENES/vagrantfile.png)
 
 ## Configuración de las máquinas<a name="id7"></a>
 ##### Para conectarnos a nuestras máquinas, el primer paso es levantarlas y ponerlas en funcionamiento, para ello utilizamos el comando "vagrant up"
