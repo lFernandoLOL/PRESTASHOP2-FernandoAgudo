@@ -96,7 +96,7 @@
 ![](/IMAGENES/nginx/nginx5.png)
 
 
-### Configuración del Balanceador<a name="id10"></a>
+### Configuración del Balanceador<a name="id11"></a>
 
 #### Modo no seguro
 ###### Añadimos las ip a balancear
