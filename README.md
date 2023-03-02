@@ -37,10 +37,12 @@
 ![](/IMAGENES/vagrantstatus.png)
 
 ### Configuración del servidor SQL:<a name="id8"></a>
+
+##### Para configurar sql, ponemos el comando mysql_secure_installation, 
 ![](/IMAGENES/sql/sql1.png)
 
 
-
+##### Creamos la base de datos para prestashop y su usuario y contraseña que tendrán permiso sobre esta.
 ![](/IMAGENES/sql/sql2.png)
 ![](/IMAGENES/sql/sql3.png)
 
